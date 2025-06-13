@@ -3,26 +3,29 @@
 BATMAN is a lightweight Linux utility to manage battery conservation mode via CLI.
 
 
-# 1. Download the ZIP file
+# Simple Installation
+
+
+ 1. Download the ZIP file
 ```bash
 
 wget https://github.com/user-attachments/files/20724075/batman_5.0_all.deb.zip
 ```
 
 
-# 2. Unzip the file (creates batman_5.0_all.deb)
+ 2. Unzip the file (creates batman_5.0_all.deb)
 ```bash
 
 unzip batman_5.0_all.deb.zip
 ```
 
-# 3. Install the extracted .deb package
+ 3. Install the extracted .deb package
 ```bash
 
 sudo dpkg -i batman_5.0_all.deb
 ```
 
-# 4. Run the program
+ 4. Run the program
 ```bash
 
 batman
