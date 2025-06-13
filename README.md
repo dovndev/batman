@@ -3,10 +3,10 @@
 BATMAN is a lightweight Linux utility to manage battery conservation mode via CLI.
 
 
-# Simple Installation
+# Simple Installation (.deb)
 
 
- 1. Download the ZIP file
+ 1. Download the ZIP file for .deb
 ```bash
 
 wget https://github.com/user-attachments/files/20724075/batman_5.0_all.deb.zip
@@ -38,7 +38,10 @@ batman
 - Enable/Disable conservation mode
 - Set charge limit
 
-## Installation
+## Installation using source code zip file
+
+Download and unzip the source code
+
 ```bash
 chmod +x install.sh
 ./install.sh
